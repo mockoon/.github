@@ -18,12 +18,23 @@ Mockoon is the easiest and quickest way to design and run mock REST APIs.
 No remote deployment, no account required, free and open-source.
 
 ### Get working mock REST APIs in seconds with an intuitive and easy-to-use interface available on all OS.
+
 > [View Mockoon full features list](https://mockoon.com/features/)  
 > [Check our getting started tutorial](https://mockoon.com/tutorials/getting-started/)
 
 ### Run your mock on all your servers and headless environments with Mockoon's CLI and Docker image. 
+
 > [Learn more about the CLI](https://mockoon.com/cli/)  
 > [Mockoon image on Docker hub](https://hub.docker.com/r/mockoon/cli)
 
 ### Go beyond mocking with advanced features and tackle the most complex situation with HTTP requests recording, proxying, integration testing, etc.
+
 > [Check Mockoon's documentation](https://mockoon.com/docs/latest/about/)
+
+## Support us!
+
+Mockoon is an open-source project created in 2017 by [Guillaume](https://github/255kb), a developer passionate about APIs. Guillaume is maintaining Mockoon full-time since early 2021.
+
+Entirely free, Mockoon saves time for thousands of people around the world every day and recently crossed 150 000 downloads! If you like Mockoon and want it to propose always more great features, you can support us and join the dozens of [backers and supporters](https://github.com/mockoon/mockoon/blob/main/backers.md).
+
+### [→ Support us](https://mockoon.com/sponsor-us/)
