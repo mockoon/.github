@@ -33,7 +33,7 @@ No remote deployment, no account required, free and open-source.
 
 ## Support us!
 
-Mockoon is an open-source project created in 2017 by [Guillaume](https://github/255kb), a developer passionate about APIs. Guillaume is maintaining Mockoon full-time since early 2021.
+Mockoon is an open-source project created in 2017 by [Guillaume](https://github.com/255kb), a developer passionate about APIs. Guillaume is maintaining Mockoon full-time since early 2021.
 
 Entirely free, Mockoon saves time for thousands of people around the world every day and recently crossed 150 000 downloads! If you like Mockoon and want it to propose always more great features, you can support us and join the dozens of [backers and supporters](https://github.com/mockoon/mockoon/blob/main/backers.md).
 
