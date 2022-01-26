@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://mockoon.com" alt="mockoon logo">
-    <img width="50%" src="https://mockoon.com/images/hp-hero.png">
+    <img width="50%" src="https://mockoon.com/images/repo-illustration.png">
   </a>
   <br><br>
   <a href="https://mockoon.com/#download"><img src="https://img.shields.io/badge/Download%20app-Go-green.svg?style=flat-square&colorB=1997c6"/></a>
@@ -33,8 +33,8 @@ No remote deployment, no account required, free and open-source.
 
 ## Support us!
 
-Mockoon is an open-source project created in 2017 by [Guillaume](https://github.com/255kb), a developer passionate about APIs. Guillaume is maintaining Mockoon full-time since early 2021.
+Mockoon is an open-source project built by volunteer maintainers. If you like our application, please consider sponsoring us and join all the [Sponsors and Backers](https://github.com/mockoon/mockoon/blob/main/backers.md) who helped this project over time!
 
-Entirely free, Mockoon saves time for thousands of people around the world every day and recently crossed 150 000 downloads! If you like Mockoon and want it to propose always more great features, you can support us and join the dozens of [backers and supporters](https://github.com/mockoon/mockoon/blob/main/backers.md).
-
-### [→ Support us](https://mockoon.com/sponsor-us/)
+<div align="center">
+<a href="https://mockoon.com/sponsor-us/"><img src="https://mockoon.com/images/sponsor-btn.png" width="250" alt="sponsor button" /></a>
+</div>
