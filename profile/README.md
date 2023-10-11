@@ -1,7 +1,5 @@
+[![mockoon](https://user-images.githubusercontent.com/7489814/203794601-d7f55b26-6796-40f0-a591-81879dfc6aa8.png)](https://mockoon.com)
 <div align="center">
-  <a href="https://mockoon.com" alt="mockoon logo">
-    <img width="50%" src="https://mockoon.com/images/hero-org-repo.png">
-  </a>
   <br><br>
   <a href="https://mockoon.com/download/"><img src="https://img.shields.io/badge/Download%20app-Go-green.svg?style=flat-square&colorB=1997c6"/></a>
   <a href="https://mockoon.com/"><img src="https://img.shields.io/badge/Website-Go-green.svg?style=flat-square&colorB=1997c6"/></a>
