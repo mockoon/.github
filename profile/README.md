@@ -83,9 +83,9 @@ Mockoon is proudly **independent** and **open-source**, maintained without exter
   </a>
 </div>
 
-If you'd like to **support Mockoon** as well, you can **become a sponsor** or **subscribe to Mockoon Cloud**, every contribution helps keep the project alive and evolving. Thank you!
+If you'd like to **support Mockoon** as well, you can **become a sponsor** or **subscribe to Mockoon Pro**, every contribution helps keep the project alive and evolving. Thank you!
 
 <div align="center" style="margin-top:20px;margin-bottom:20px;">
-<a href="https://github.com/sponsors/mockoon"><img src="https://mockoon.com/images/sponsor-btn.png?" width="250" alt="sponsor button" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://mockoon.com/cloud/"><img src="https://mockoon.com/images/cloud-btn-250.png?" width="250" alt="sponsor button" /></a>
+<a href="https://github.com/sponsors/mockoon"><img src="https://mockoon.com/images/sponsors-btn.png" width="250" alt="sponsor button" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://mockoon.com/cloud/"><img src="https://mockoon.com/images/pro-btn-250.png" width="250" alt="sponsor button" /></a>
 </div>
